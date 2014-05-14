@@ -18,6 +18,10 @@ public class MyFirstApp {
     public static void main(String[] args) {
         System.out.println("Nuttanun Topon 55025692");
         System.out.println("My name is Nuttanun Topon");
+        
+        
+        System.out.println("Information Technology");
+        System.out.println("University of Phayao");
     }
     
 }
